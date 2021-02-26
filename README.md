@@ -1,1 +1,4 @@
-# php
+# SIMPLES CRUD
+
+PHP 7.4.*
+
