@@ -1,0 +1,9 @@
+create table carros
+(
+    id int not null auto_increment primary key,
+    modelo text       null,
+    marca  text       null,
+    cor    text       null,
+    placa  varchar(8) null
+);
+
